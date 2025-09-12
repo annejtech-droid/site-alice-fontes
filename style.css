@@ -47,7 +47,9 @@
             z-index: 1000;
             animation: fadeIn 1s ease-in-out;
         }
-       
+       header h1{
+         color:#fff;
+       }        
         nav ul {
             display: flex;
             list-style: none;
@@ -332,4 +334,5 @@ footer a {
 }
 
     
+
 
