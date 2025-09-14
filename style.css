@@ -306,7 +306,7 @@ footer a {
 /* AJUSTE DE TAMANHO PRO CELULAR */
 @media (max-width: 768px) {
   footer table, footer tr, footer td {
-    display: block;
+    display:inline-block;
     width: 100%;
     text-align: center;
   }
@@ -334,5 +334,6 @@ footer a {
 }
 
     
+
 
 
